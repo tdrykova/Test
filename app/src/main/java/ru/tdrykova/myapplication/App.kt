@@ -1,4 +1,6 @@
 package ru.tdrykova.myapplication
 
-class App {
+import android.app.Application
+
+class App: Application() {
 }
